@@ -1,4 +1,4 @@
-# 👑 Reverse Turing Test Game (king-king)
+# 👑 Reverse Turing Test Game
 
 > **리버스 튜링 테스트 게임**의 전체 프로젝트 저장소입니다.  
 > 본 프로젝트는 AI(Gemini API) 판별 기능을 포함한 층별 미션 게임으로, 유저 데이터 관리 및 랭킹 시스템을 지원합니다.
